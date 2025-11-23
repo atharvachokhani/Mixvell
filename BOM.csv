@@ -1,8 +1,8 @@
-﻿Name of the Material/Component,Quantity,Reference Link,Additional Note
-DC6-12V MINI Aquarium water Pump R385,6,, Acts as the main dispenser
-8 Channel Relay Module 5V High and Low Level Trigger Relay module,6,,Used for controling motors 
-Piping (1m, 10 mm ID),8,,Basic piping for all connections
-HC 05 Bluetooth module,1,,For establishing connection to tablet
-12V 3A wall adapter powersupply,1,,Power suply unit
-DC Jack,1,,Converting jack to cable
-Arduino Uno,1,,Microcontroller unit
+Name of the Material/Component,Quantity,Reference Link,Additional Note
+"DC6-12V MINI Aquarium water Pump R385",6,,Acts as the main dispenser
+"8 Channel Relay Module 5V High and Low Level Trigger Relay module",6,,Used for controling motors
+"Piping (1m, 10 mm ID)",8,,Basic piping for all connections
+"HC 05 Bluetooth module",1,,For establishing connection to tablet
+"12V 3A wall adapter powersupply",1,,Power suply unit
+"DC Jack",1,,Converting jack to cable
+"Arduino Uno",1,,Microcontroller unit
